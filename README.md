@@ -8,3 +8,15 @@ This repo has five problems in five seperate python scripts from __pr1.py__ to _
 Please choose one of the five problems and edit the corresponding file and send a pull request.  
 
 (Sources : pr1 to pr5 -> projecteuler.net)
+
+__SOLVED__
+
+__pr1__ by _helewrer3_
+
+__pr2__ by _PrashubhAtri_
+
+__pr3__ by _RIYUZAKI09_
+
+__pr4__ by _hemangdtu_
+
+__pr5__ by _guptaprakhar_
